@@ -46,4 +46,4 @@ Demonstrar habilidades em:
 * Construção de dashboards interativos
 
 ---
-![FinanceOS](Captura de tela 2026-03-26 080348.png) 
+![FinanceOS](https://raw.githubusercontent.com/gabrielcardoso-estatistico/FinanceOS/refs/heads/main/Captura%20de%20tela%202026-03-26%20080348.png) 
