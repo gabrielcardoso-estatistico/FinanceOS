@@ -47,12 +47,3 @@ Demonstrar habilidades em:
 
 ---
 
-## 💡 Próximos passos
-
-* Conectar com banco de dados
-* Adicionar filtros dinâmicos
-* Usar dados reais
-
----
-
-Projeto ideal para portfólio de **Analista de Dados / BI**.
