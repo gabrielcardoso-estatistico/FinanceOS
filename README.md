@@ -46,4 +46,4 @@ Demonstrar habilidades em:
 * Construção de dashboards interativos
 
 ---
-
+![FinanceOS](img1.png) 
